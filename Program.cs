@@ -4,9 +4,6 @@ namespace CinemaBookingSystem;
 
 internal class Program
 {
-    //What are you trying to do i dont understand..?
-    //I told you to do code in sequence...you are not doing it in proper sequence.....where are the seat types...?
-    // i dont understand he condition..ticket > 1000......is is possible in real world...there are only 100-120 seats in on theater....that how's it possible..?
     static void Main(string[] args)
     {
 
