@@ -42,6 +42,7 @@ internal class Program
 
         //int seat = 3;
 
+        MyBranch
         switch (seat);//>?
 
 
