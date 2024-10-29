@@ -6,7 +6,7 @@ public class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Welcome to cinema booking system");
+        Console.WriteLine("Welcome to cinema booking system......");
     Label1:
         Console.WriteLine("Ticket Price :" + "\n" + "1. Recliner - 200" + "\n" + "2. Balcony - 150" + "\n" + "3. Basic - 100" + "\n" + "Please enter 1,2,3 for respective seat type");
         int ticketType = int.Parse(Console.ReadLine());
